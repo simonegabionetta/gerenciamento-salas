@@ -1,0 +1,11 @@
+{
+  "sucessoCancelamento": {
+    "mensagem": "Cancelamento realizado com sucesso"
+  },
+  "erroAgendamentoNaoEncontrado": {
+    "mensagem": "Agendamento não encontrado ou sem permissão"
+  },
+  "erroAutorizacao": {
+    "mensagem": "Sem autorização para cancelar agendamento"
+  }
+}

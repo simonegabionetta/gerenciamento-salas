@@ -1,0 +1,11 @@
+{
+  "loginSucesso": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
+  },
+  "loginFalha": {
+    "mensagem": "Credenciais inválidas"
+  },
+  "loginInvalido": {
+    "mensagem": "Login e senha são obrigatórios"
+  }
+}

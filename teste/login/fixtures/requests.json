@@ -1,0 +1,16 @@
+{
+  "loginValido": {
+    "login": "usuario.teste",
+    "password": "senha123"
+  },
+  "loginInvalido": {
+    "login": "usuario.inexistente",
+    "password": "senha456"
+  },
+  "loginSemSenha": {
+    "login": "usuario.teste"
+  },
+  "loginSemUsuario": {
+    "password": "senha123"
+  }
+}

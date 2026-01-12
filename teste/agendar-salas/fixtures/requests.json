@@ -1,0 +1,35 @@
+{
+  "agendamentoValido": {
+    "salaId": 1,
+    "inicio": "2025-10-26T10:00:00Z",
+    "fim": "2025-10-26T11:00:00Z",
+    "nome": "Reunião de Planejamento",
+    "descricao": "Planejamento do próximo trimestre"
+  },
+  "agendamentoConflito": {
+    "salaId": 1,
+    "inicio": "2025-10-26T10:30:00Z",
+    "fim": "2025-10-26T11:30:00Z",
+    "nome": "Reunião em Conflito",
+    "descricao": "Esta reunião está em conflito com outra"
+  },
+  "agendamentoSemNome": {
+    "salaId": 1,
+    "inicio": "2025-10-26T14:00:00Z",
+    "fim": "2025-10-26T15:00:00Z",
+    "descricao": "Reunião sem nome"
+  },
+  "agendamentoSemSala": {
+    "inicio": "2025-10-26T16:00:00Z",
+    "fim": "2025-10-26T17:00:00Z",
+    "nome": "Reunião sem Sala",
+    "descricao": "Tentativa de agendar sem informar sala"
+  },
+  "agendamentoDataInvalida": {
+    "salaId": 1,
+    "inicio": "2025-10-26T18:00:00Z",
+    "fim": "2025-10-26T17:00:00Z",
+    "nome": "Reunião com Data Inválida",
+    "descricao": "Horário de fim anterior ao início"
+  }
+}

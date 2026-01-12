@@ -1,0 +1,9 @@
+{
+  "agendamentoParaCancelar": {
+    "salaId": 1,
+    "inicio": "2025-10-26T10:00:00Z",
+    "fim": "2025-10-26T11:00:00Z",
+    "nome": "Reunião para Cancelar",
+    "descricao": "Reunião que será cancelada no teste"
+  }
+}

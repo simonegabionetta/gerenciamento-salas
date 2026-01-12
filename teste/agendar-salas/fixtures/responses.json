@@ -1,0 +1,14 @@
+{
+  "sucessoAgendamento": {
+    "mensagem": "Agendamento realizado com sucesso"
+  },
+  "erroSalaIndisponivel": {
+    "mensagem": "Sala não está disponível para uso"
+  },
+  "erroDadosInvalidos": {
+    "mensagem": "Dados inválidos para agendamento"
+  },
+  "erroAutorizacao": {
+    "mensagem": "Sem autorização para realizar agendamento"
+  }
+}

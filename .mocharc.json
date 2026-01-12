@@ -1,0 +1,16 @@
+{
+  "diff": true,
+  "extension": ["js"],
+  "package": "./package.json",
+  "reporter": "mochawesome",
+  "reporter-option": [
+    "reportDir=teste/reports",
+    "reportFilename=authentication-report",
+    "html=true",
+    "json=true"
+  ],
+  "slow": "75",
+  "timeout": "5000",
+  "ui": "bdd",
+  "spec": "teste/**/*.js"
+}

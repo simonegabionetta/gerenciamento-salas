@@ -1,0 +1,23 @@
+{
+  "listaSalasVazia": [],
+  "listaSalasPreenchida": [
+    {
+      "id": 1,
+      "nome": "Sala de Reunião 1",
+      "descricao": "Sala principal com projetor"
+    },
+    {
+      "id": 2,
+      "nome": "Sala de Reunião 2",
+      "descricao": "Sala pequena para 4 pessoas"
+    },
+    {
+      "id": 3,
+      "nome": "Sala de Reunião 3",
+      "descricao": "Sala grande com videoconferência"
+    }
+  ],
+  "erroAutorizacao": {
+    "mensagem": "Sem autorização para visualizar salas"
+  }
+}
